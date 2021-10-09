@@ -1,0 +1,14 @@
+Copy the player program as normal to IDE.
+Save it as a .bbc in the root folder (where the exe is located)
+Name it as BEEBMID.bbc
+Next, get the DATA from the python script
+Paste into the SDLIDE and rename all (D. commands to DATA commands)
+Then run it.
+Inside the shell, type in:
+A=OPENOUT"DATA"
+REPEAT:READ D%:PRINT# A,D%:UNTIL FALSE
+CLOSE# 0
+Then type into the shell:
+CH."BEEBMID"
+Then type in DATA
+BOOOOM!!!!!
