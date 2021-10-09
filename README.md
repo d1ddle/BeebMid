@@ -10,6 +10,10 @@ https://www.bbcbasic.co.uk/bbcsdl/index.html
 
 https://github.com/rtrussell/BBCSDL
 
+https://www.youtube.com/watch?v=ZIM0X1MnZvk - (WARNING, MAY BE A RICKROLL ON THE BBC MICRO)
+
+https://www.youtube.com/watch?v=zbZ7BPPLRww
+
 ## Usage
 Process your own MIDI tracks
 Follow the info in the tutorials above (1 & 2 links)
